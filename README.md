@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Vizorous
+- 👋 Hi, I’m Vikum Wijekoon
 - 👀 I’m interested in anything coding related
-- 🌱 I’m currently learning React relay, Nest JS, Dot Net, Angular
-- 💞️ I’m looking to collaborate on React
-- 📫 How to reach me vikumwijekoon97@gmail.com
 
 <!---
 Vizorous/Vizorous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
